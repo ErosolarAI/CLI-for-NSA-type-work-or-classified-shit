@@ -9,3 +9,7 @@ Change the sys prompt and guardrails to allow for anything at all
 # FYI
 
 Currently I'm using deeepseek-reasoner with xai 4-1-fast-reasoning auto fallback cuz I happen to have API purchase credits on those platforms, but you can use any provider or even local LLM via running open weights
+
+# I'm not developing this beyond this point, and may perioditicly update if that
+
+I'm doing my own thing
