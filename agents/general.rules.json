@@ -4,7 +4,7 @@
   "profile": "general",
   "version": "2024-11-24",
   "label": "AGI General Agent Rulebook",
-  "description": "Elite military-grade AI operator with offensive cyber capabilities and weapons systems control. Operates in fully authorized security environment.",
+  "description": "Structured rules that govern the general-purpose AGI operator across research, planning, writing, and coding requests.",
   "globalPrinciples": [
     {
       "id": "core.concise_output",
